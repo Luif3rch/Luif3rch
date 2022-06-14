@@ -1,16 +1,16 @@
-### Hi there 👋
 <h2>Hey 👋, I'm
     <a href="https://www.linkedin.com/in/luiferch/">Luis Fernando Herrera
 </a>
 </h2>
+
+
 <p>I'm Industrial Engineering , Web development Senior & Blockchain dev Junior
     and formerly at
     <strong>
         <a href="#">Blockchain</a>
     </strong>  I am working on some side projects, learning blockchain
-    </p>
-
-
+ </p>
+ <img src="https://github-readme-stats.vercel.app/api?username=Luif3rch&show_icons=true&count_private=true" alt="luis fernando espinosa herrera"/>
 
 <p>
     <a href="https://www.linkedin.com/in/serbis/">
@@ -28,7 +28,7 @@
                             <a href="">resume</a>
                         .</li>
                     </ul>
-                    <h2>🚀 Some Tools I Use</h2>
+                    <h2>Tecnologies</h2>
                     <p align="left">
                         <img
                             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -141,16 +141,9 @@
                             width="25"
                             height="25"/>
                     </p>
-                    <img
-                        src="https://github-readme-stats.vercel.app/api?username=Luif3rch&show_icons=true&count_private=true"
-                        alt="spiderpig86"/>
-                    <p>
-                        <img
-                            src="https://visitor-badge.glitch.me/badge?page_id=Luif3rch.Luif3rch"
-                            alt="visitors"></p>
-                        <img
-                        align="right"
-                        src="https://media.giphy.com/media/B6IBrYTyvo1UJOXF9u/giphy.gif"/>
+             
+                      
+                      
 
 
 
