@@ -1,4 +1,4 @@
-<h2>Hey 👋, I'm
+<h2>Hey 👋🧐, I'm
     <a href="https://www.linkedin.com/in/luiferch/">Luis Fernando Herrera
 </a>
 </h2>
