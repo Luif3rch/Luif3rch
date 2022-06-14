@@ -15,7 +15,7 @@
 <p>
     <a href="https://www.linkedin.com/in/serbis/">
         <img
-            src="https://img.shields.io/badge/-@serbis-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/serbis/"
+            src="https://img.shields.io/badge/-@luiferch-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;https://www.linkedin.com/in/luiferch/"
             alt="LinkedIn Badge"></a>
         </p>
                     <h2>⚡️ A Few Quick Facts</h2>
