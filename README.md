@@ -18,9 +18,6 @@
             src="https://img.shields.io/badge/-@serbis-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/serbis/"
             alt="LinkedIn Badge"></a>
         </p>
-                    <img
-                        align="right"
-                        src="https://media.giphy.com/media/B6IBrYTyvo1UJOXF9u/giphy.gif"/>
                     <h2>⚡️ A Few Quick Facts</h2>
                     <ul>
                         <li>🔭 I’m currently working on
@@ -151,6 +148,9 @@
                         <img
                             src="https://visitor-badge.glitch.me/badge?page_id=Luif3rch.Luif3rch"
                             alt="visitors"></p>
+                        <img
+                        align="right"
+                        src="https://media.giphy.com/media/B6IBrYTyvo1UJOXF9u/giphy.gif"/>
 
 
 
