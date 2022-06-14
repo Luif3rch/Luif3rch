@@ -20,9 +20,9 @@
         </p>
                     <h2>⚡️ A Few Quick Facts</h2>
                     <ul>
-                        <li>🔭 I’m currently working on<a href="[https://github.com/Spiderpig86/Cirrus](https://www.blokcod3.com/)">Blokcod3</a>.</li>
-                        <li>👨‍💻 Most of my projects are available on<a href="">Github</a>.</li>
-                        <li>📙 Check out my<a href="">resume</a>.</li>
+                        <li>🔭 I’m currently working on<a href="[https://github.com/Spiderpig86/Cirrus](https://www.blokcod3.com/)"> Blokcod3</a>.</li>
+                        <li>👨‍💻 Most of my projects are available on<a href=""> Github</a>.</li>
+                        <li>📙 Check out my<a href=""> resume cv</a>.</li>
                     </ul>
                     <h2>Tecnologies</h2>
                     <p align="left">
