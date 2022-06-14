@@ -31,4 +31,4 @@
 
 <h2>Tecnologies Blokchain</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=remix,gcp,rust,solidity,py,flutter&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=remix,rust,solidity,py,flutter&perline=10)](https://skillicons.dev)
