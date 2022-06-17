@@ -23,7 +23,7 @@
                     </ul>
 <h2>Tecnologies WEB</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=wordpress,html,js,ts,css,sass,react,vue,tailwind,graphql,mysql,mongodb,nodejs,nextjs,php,laravel&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=wordpress,html,js,ts,css,sass,react,vue,graphql,mysql,mongodb,nodejs,nextjs,php,laravel&perline=10)](https://skillicons.dev)
 
 <h2>Tecnologies Devops</h2>
 
