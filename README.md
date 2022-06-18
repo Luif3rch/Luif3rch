@@ -4,7 +4,7 @@
 </h2>
 
 
-<p>I'm  Engineer Industrial , Web development & Blockchain dev Junior.
+<p>I'm  Engineer Industrial , Web development & Blockchain dev 
     <br>I am working on some side projects, learning blockchain
  </p>
  <img src="https://github-readme-stats.vercel.app/api?username=Luif3rch&show_icons=true&count_private=true" alt="luis fernando espinosa herrera"/>
