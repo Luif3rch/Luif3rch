@@ -29,6 +29,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=bash,gcp,azure,docker,gitlab,github,git,webpack,kubernetes,linux,jenkins&perline=10)](https://skillicons.dev)
 
-<h2>Tecnologies Blokchain</h2>
+<h2>Tecnologies Blockchain</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=remix,rust,solidity,py,flutter&perline=10)](https://skillicons.dev)
