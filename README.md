@@ -23,12 +23,12 @@
                     </ul>
 <h2>Tecnologies WEB</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=wordpress,html,js,ts,css,sass,react,vue,graphql,mysql,mongodb,nodejs,nextjs,php,laravel&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=wordpress,html,js,ts,css,sass,react,go,vue,graphql,mysql,mongodb,nodejs,nextjs,php,laravel&perline=10)]()
 
 <h2>Tecnologies Devops</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=bash,gcp,azure,docker,gitlab,github,git,webpack,kubernetes,linux,jenkins&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,gcp,azure,docker,gitlab,github,git,webpack,kubernetes,linux,jenkins&perline=10)]()
 
 <h2>Tecnologies Blockchain</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=remix,rust,solidity,py,flutter&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=remix,rust,solidity,py,flutter&perline=10)]()
