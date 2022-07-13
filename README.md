@@ -40,4 +40,4 @@
 
 <h2>Herramientas</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=idea,ps,figma,,arduino,androidstudio,discord,md&perline=10)](#)
+[![My Skills](https://skillicons.dev/icons?i=idea,ps,figma,arduino,androidstudio,discord,md&perline=10)](#)
