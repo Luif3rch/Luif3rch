@@ -27,7 +27,7 @@
 
 <h2>Lenguajes de programacion</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=wordpress,js,ts,go,python,java,&perline=10)](#)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,go,python,java,&perline=10)](#)
 
 
 <h2>Tecnologies Devops</h2>
