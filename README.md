@@ -25,7 +25,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=wordpress,html,ts,css,bootstrap,sass,tailwind,react,vue,electron,firebase,mysql,firebase,mongodb,nodejs,express,nextjs,nestjs,php,laravel&perline=10)](#)
 
-<h2>Lenguajes de programacion</h2>
+<h2>Programming languages</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,go,python,java,&perline=10)](#)
 
