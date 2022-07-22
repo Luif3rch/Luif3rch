@@ -38,6 +38,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=remix,rust,solidity,py,flutter&perline=10)](#)
 
-<h2>Herramientas</h2>
+<h2>Tools</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=idea,ps,figma,arduino,androidstudio,discord,md&perline=10)](#)
