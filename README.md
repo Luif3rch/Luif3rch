@@ -23,7 +23,7 @@
                     </ul>
 <h2>Tecnologies WEB FULL STACK</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=wordpress,html,ts,css,bootstrap,sass,tailwind,react,vue,electron,firebase,mysql,firebase,mongodb,nodejs,express,nextjs,nestjs,php,laravel&perline=10)](#)
+[![My Skills](https://skillicons.dev/icons?i=wordpress,html,ts,css,bootstrap,sass,tailwind,react,vue,electron,firebase,mysql,mongodb,nodejs,express,nextjs,nestjs,php,laravel&perline=10)](#)
 
 <h2>Programming languages</h2>
 
